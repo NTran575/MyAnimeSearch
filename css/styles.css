@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+}
+header {
+    border: 5px solid orange;
+    border-radius: 5px;
+    background-color: black;
+}
+header h1 {
+    font-family: 'Pacifico';
+    font-size: 2em;
+    font-weight: 400;
+    color: aliceblue;
+    text-align: center;
+    margin: 2em;
+}
+.search-container {
+    text-align: center;
+    color: white;
+}
+input {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.results {
+    border:5px solid white;
+    color: white;
+}
