@@ -1,5 +1,7 @@
 # MyAnimeSearch
 
+https://ntranapp575-myanimesearch.web.app
+
 Created a simple anime search engine using API call using HTML, CSS, and JavaScript.
 
 ## Technologies
@@ -8,7 +10,6 @@ Created a simple anime search engine using API call using HTML, CSS, and JavaScr
 - CSS
 - Bootstrap: version 5.2.3
 - JavaScript
-
 
 ## Sources
 
