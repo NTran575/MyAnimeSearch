@@ -23,7 +23,34 @@ input {
     color: black;
     border-radius: 20px;
 }
-.results {
-    border:5px solid white;
-    color: white;
+body{
+    background-color: black;
+    justify-content: center;
+}
+#results {
+    gap: 40px;
+    width: 100vw;
+    height: 100vh;
+    margin-top: 20px;
+}
+
+#results div {
+    border: none;
+    width: 220px; 
+    border-radius: 30px;
+}
+
+#results div p {
+    text-align: center;
+    color: orange;
+    font-family: Helvetica, sans-serif;
+}
+
+@media (max-width:800px) {
+    body {
+        overflow: hidden;
+        overflow-y: scroll;
+    }
+
+    
 }
